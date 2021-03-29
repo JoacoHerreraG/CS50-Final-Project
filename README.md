@@ -53,4 +53,4 @@ One game uses an image that is scrolled to simulate a moving background while th
 
 3D Helicopter Game has a static camera while the camera in Jumpy Cat follows the X position of the player. 
 
-In Jumpy Cat the score is increased as you progress or collect coins while in 3D Helicopter Game the score only increases when you collect coins or gems.# CS50-Final-Project
+In Jumpy Cat the score is increased as you progress or collect coins while in 3D Helicopter Game the score only increases when you collect coins or gems.
